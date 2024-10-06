@@ -1,0 +1,5 @@
+name = "bevy-single-variable-function-mesh"
+description = "A 2D or 3D mesh generated from single-variable functions."
+link = "https://github.com/772/bevy-single-variable-function-mesh"
+image = "bevy-single-variable-function-mesh.png"
+crate = "bevy-single-variable-function-mesh"
